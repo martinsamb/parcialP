@@ -1,0 +1,342 @@
+# depslib dependency file v1.0
+1557574024 source:c:\users\miguea11\desktop\carpeta_trabajo\examen_piloto\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557573934 c:\users\miguea11\desktop\carpeta_trabajo\examen_piloto\fantasma.h
+
+1557450012 c:\users\miguea11\desktop\carpeta_trabajo\examen_piloto\utn.h
+
+1557527968 source:c:\users\miguea11\desktop\carpeta_trabajo\examen_piloto\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557574101 source:c:\users\miguea11\desktop\carpeta_trabajo\examen_piloto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"fantasma.h"
+
+1557571715 source:c:\users\miguea11\desktop\carpeta_trabajo\examen_piloto\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557574332 source:c:\users\miguea11\desktop\carpeta_trabajo\molde_abm\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557573934 c:\users\miguea11\desktop\carpeta_trabajo\molde_abm\fantasma.h
+
+1557450012 c:\users\miguea11\desktop\carpeta_trabajo\molde_abm\utn.h
+
+1557527968 source:c:\users\miguea11\desktop\carpeta_trabajo\molde_abm\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557574395 source:c:\users\miguea11\desktop\carpeta_trabajo\molde_abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"fantasma.h"
+
+1557571715 source:c:\users\miguea11\desktop\carpeta_trabajo\molde_abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557574332 source:c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557573934 c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\fantasma.h
+
+1557612152 c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\utn.h
+
+1557713383 source:c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+	"informes.h"
+
+1557713389 source:c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+	"informes.h"
+
+1557622840 c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\prestamos.h
+
+1557575973 c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\autores.h
+
+1557582961 c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\libros.h
+
+1557612227 c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\socios.h
+
+1557685150 source:c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557622732 source:c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+
+1557708583 source:c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+	"utn.h"
+
+1557622699 source:c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+	"utn.h"
+
+1557685906 source:c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+
+1557713157 c:\users\miguea11\desktop\carpeta_trabajo\parcial_anci\informes.h
+
+1557867740 source:c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557867740 c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\fantasma.h
+
+1557867740 c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\utn.h
+
+1557867740 source:c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+	"informes.h"
+
+1557982301 c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\prestamos.h
+
+1557932930 c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\autores.h
+
+1558017438 c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\libros.h
+
+1557934417 c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\socios.h
+
+1557867740 c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\informes.h
+
+1557989965 source:c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+	"informes.h"
+
+1557867740 source:c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1558015462 source:c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autores.h"
+	"utn.h"
+	"prestamos.h"
+	"libros.h"
+	"socios.h"
+
+1557977627 source:c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"autores.h"
+	"libros.h"
+	"socios.h"
+	"prestamos.h"
+
+1557989661 source:c:\users\maría marta\desktop\martin\utn\programacion1\miguelalvarez\clases_utn-master\parcial_ansi\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socios.h"
+	"utn.h"
+	"autores.h"
+	"libros.h"
+	"prestamos.h"
+
+1557867740 source:c:\users\maría marta\desktop\martin\utn\programacion1\primerparcial\parcial_esq\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1557867740 c:\users\maría marta\desktop\martin\utn\programacion1\primerparcial\parcial_esq\fantasma.h
+
+1557867740 c:\users\maría marta\desktop\martin\utn\programacion1\primerparcial\parcial_esq\utn.h
+
+1557867740 source:c:\users\maría marta\desktop\martin\utn\programacion1\primerparcial\parcial_esq\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+	"informes.h"
+
+1557867740 c:\users\maría marta\desktop\martin\utn\programacion1\primerparcial\parcial_esq\informes.h
+
+1557989965 source:c:\users\maría marta\desktop\martin\utn\programacion1\primerparcial\parcial_esq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+	"informes.h"
+
+1557867740 source:c:\users\maría marta\desktop\martin\utn\programacion1\primerparcial\parcial_esq\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1558030195 source:/home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1558030195 /home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/fantasma.h
+
+1558030195 /home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/utn.h
+
+1558030195 source:/home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+	"informes.h"
+
+1558030195 /home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/informes.h
+
+1558030195 source:/home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Prestamos.h"
+	"Autores.h"
+	"Libros.h"
+	"Socios.h"
+	"informes.h"
+
+1558030195 source:/home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1558044153 source:/home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/Instrumentos.c
+
+1558044171 source:/home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/Musicos.c
+
+1558049508 source:/home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/Orquestas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Orquestas.h"
+	"Musicos.h"
+	"Instrumentos.h"
+
+1558047920 /home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/Orquestas.h
+
+1558050060 /home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/Musicos.h
+
+1558050260 /home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/Instrumentos.h
+
