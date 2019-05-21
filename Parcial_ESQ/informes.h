@@ -12,6 +12,7 @@ typedef struct
 
 
 #endif // INFORMES_H_INCLUDED
+
+int Informes_listarMusicos(Musicos arrayA[], Instrumentos arrayB[], int sizeI, int sizeJ);
 void MenuInformes();
-void InformeA(Prestamos array[],aux_prestamos arrayB[],int size,int *contador);
 

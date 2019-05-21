@@ -340,3 +340,143 @@
 
 1558050260 /home/alumno/Documentos/martinsamb/PARCIAL/Parcial_ESQ/Instrumentos.h
 
+1558052344 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1558052344 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\fantasma.h
+
+1558052344 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\utn.h
+
+1558342172 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Orquestas.h"
+	"Musicos.h"
+	"Instrumentos.h"
+	"informes.h"
+
+1558342078 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\informes.h
+
+1558343193 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\instrumentos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Instrumentos.h"
+
+1558340043 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\orquestas.h
+	"Musicos.h"
+
+1558339174 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\musicos.h
+
+1558338983 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\instrumentos.h
+
+1558343071 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\musicos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Musicos.h"
+
+1558342870 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\orquestas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Orquestas.h"
+	"Musicos.h"
+	"Instrumentos.h"
+
+1558052344 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1558342562 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\01_ejercicios\parcialp-master_02\parcial_esq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Orquestas.h"
+	"Instrumentos.h"
+	"Musicos.h"
+	"informes.h"
+
+1558052344 source:c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1558052344 c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\fantasma.h
+
+1558052344 c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\utn.h
+
+1558342174 source:c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Orquestas.h"
+	"Musicos.h"
+	"Instrumentos.h"
+	"informes.h"
+
+1558340044 c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\orquestas.h
+	"Musicos.h"
+
+1558339176 c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\musicos.h
+
+1558338984 c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\instrumentos.h
+
+1558342080 c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\informes.h
+
+1558343194 source:c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\instrumentos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Instrumentos.h"
+
+1558342564 source:c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Orquestas.h"
+	"Instrumentos.h"
+	"Musicos.h"
+	"informes.h"
+
+1558343346 source:c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\musicos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Musicos.h"
+
+1558342872 source:c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\orquestas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Orquestas.h"
+	"Musicos.h"
+	"Instrumentos.h"
+
+1558052344 source:c:\users\maría marta\desktop\martin\utn\programacion1\parcialp\parcialp\parcial_esq\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
