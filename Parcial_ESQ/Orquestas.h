@@ -14,6 +14,7 @@ typedef struct
     char lugar[TEXT_SIZE];
 
 
+
 }Orquestas;
 
 #endif // ORQUESTAS_H_INCLUDED

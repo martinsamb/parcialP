@@ -15,6 +15,7 @@ int cargarDatos(Instrumentos arrayInstrumentos[], Musicos arrayMusicos[], Orques
 int main()
 {
     int opcion;
+    int opcion4;
 
     int opcion1;
     int contadorIdorquestas = 0;
@@ -143,37 +144,122 @@ int main()
                     }
                 }while(opcion3 != 3);
                 break;
+
+            case 4:
+                do
+                {
+                    MenuInformes();
+                    utn_getUnsignedInt("","\nError",1,sizeof(int),1,5,1,&opcion4);
+                    switch(opcion4)
+                    {
+                        case 1:
+                            listar_orquesta(arrayOrquestas,CANTIDAD_ORQUESTAS);
+                            break;
+                        case 2:
+                            listar_musicosMenor(arrayMusicos,CANTIDAD_MUSICOS);
+                            break;
+                        case 3:
+                            listar_orquestas(arrayOrquestas,CANTIDAD_ORQUESTAS);
+                            break;
+                        case 4:
+                            listar_Instrumentos(arrayInstrumentos,CANTIDAD_INSTRUMENTOS);
+                            break;
+                        case 5:
+                            //orquestasCompleta(arrayOrquestas,arrayMusicos,CANTIDAD_ORQUESTAS,CANTIDAD_MUSICOS);
+                            break;
+                        case 6:
+                            print_orquesta_y_nombres(arrayOrquestas,CANTIDAD_ORQUESTAS);
+                            break;
+                        case 7:
+                            print_promedio_instrumentos(arrayInstrumentos,CANTIDAD_INSTRUMENTOS);
+                            break;
+                        case 8:
+                            listar_musicos_instrumentos(arrayInstrumentos,CANTIDAD_INSTRUMENTOS);
+                            break;
+
+                        default:
+                            printf ("Opcion invalida.\n");
+                            break;
+                        }
+                    }while(opcion3 != 9);
+                    break;
             //----------------------------------------------------------------------------
         }
 
-    }while(opcion != 4);
+    }while(opcion != 5);
     return 0;
 }
+            //----------------------------------------------------------------------------
+
 int cargarDatos(Instrumentos arrayInstrumentos[], Musicos arrayMusicos[], Orquestas arrayOrquestas[], int *contadorIdOrquestas, int *contadorIdInstrumentos, int *contadorIdMusicos)
 {
     int i=0;
     //musico
     arrayMusicos[i].isEmpty=0;
-    arrayMusicos[i].idUnico=*contadorIdMusicos;
-    arrayMusicos[i].edad=45;
+    arrayMusicos[i].idUnico=1;
+    arrayMusicos[i].edad=30;
     arrayMusicos[i].idOrquestas=*contadorIdOrquestas;
     arrayMusicos[i].idInstrumentos=*contadorIdInstrumentos;
-    strcpy(arrayMusicos[i].nombre,"Federico");
-    strcpy(arrayMusicos[i].apellido,"Chopin");
+    strcpy(arrayMusicos[i].nombre,"Mus1");
+    strcpy(arrayMusicos[i].apellido,"AMus1");
     (*contadorIdMusicos)++;
 
+    arrayMusicos[i].isEmpty=0;
+    arrayMusicos[i].idUnico=2;
+    arrayMusicos[i].edad=20;
+    arrayMusicos[i].idOrquestas=*contadorIdOrquestas;
+    arrayMusicos[i].idInstrumentos=*contadorIdInstrumentos;
+    strcpy(arrayMusicos[i].nombre,"Mus2");
+    strcpy(arrayMusicos[i].apellido,"AMus2");
+    (*contadorIdMusicos)++;
+
+    arrayMusicos[i].isEmpty=0;
+    arrayMusicos[i].idUnico=1;
+    arrayMusicos[i].edad=25;
+    arrayMusicos[i].idOrquestas=*contadorIdOrquestas;
+    arrayMusicos[i].idInstrumentos=1;
+    strcpy(arrayMusicos[i].nombre,"Mus3");
+    strcpy(arrayMusicos[i].apellido,"AMus3");
+    (*contadorIdMusicos)++;
+
+    arrayMusicos[i].isEmpty=0;
+    arrayMusicos[i].idUnico=2;
+    arrayMusicos[i].edad=27;
+    arrayMusicos[i].idOrquestas=2;
+    arrayMusicos[i].idInstrumentos=*contadorIdInstrumentos;
+    strcpy(arrayMusicos[i].nombre,"Mus2");
+    strcpy(arrayMusicos[i].apellido,"AMus2");
+    (*contadorIdMusicos
+
+    arrayMusicos[i].isEmpty=0;
+    arrayMusicos[i].idUnico=3;
+    arrayMusicos[i].edad=22;
+    arrayMusicos[i].idOrquestas=*contadorIdOrquestas;
+    arrayMusicos[i].idInstrumentos=*contadorIdInstrumentos;
+    strcpy(arrayMusicos[i].nombre,"Mus3");
+    strcpy(arrayMusicos[i].apellido,"AMus3");
+    (*contadorIdMusicos)++;
+
+    arrayMusicos[i].isEmpty=0;
+    arrayMusicos[i].idUnico=4;
+    arrayMusicos[i].edad=35;
+    arrayMusicos[i].idOrquestas=*contadorIdOrquestas;
+    arrayMusicos[i].idInstrumentos=*contadorIdInstrumentos;
+    strcpy(arrayMusicos[i].nombre,"Mus4");
+    strcpy(arrayMusicos[i].apellido,"AMus4");
+    (*contadorIdMusicos)++;
     //orquesta
     arrayOrquestas[i].isEmpty=0;
     arrayOrquestas[i].idUnico=*contadorIdOrquestas;
     arrayOrquestas[i].tipo=1;
-    strcpy(arrayOrquestas[i].nombre,"Sinfonica Buenos Aires");
+    strcpy(arrayOrquestas[i].nombre,"Mus1");
     strcpy(arrayOrquestas[i].lugar,"Buenos Aires");
     (*contadorIdOrquestas)++;
 
     //instrumento
-    arrayInstrumentos[i].isEmpty=0;
+    arrayInstrumentos[i].isEmpty=1;
     arrayInstrumentos[i].idUnico=*contadorIdInstrumentos;
-    arrayInstrumentos[i].tipo=1;
+    arrayInstrumentos[i].tipo=2;
     strcpy(arrayInstrumentos[i].nombre,"Violin");
     (*contadorIdInstrumentos)++;
 

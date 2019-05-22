@@ -480,3 +480,73 @@
 	"fantasma.h"
 	"utn.h"
 
+1558474759 source:/home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1558474759 /home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/fantasma.h
+
+1558474759 /home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/utn.h
+
+1558474759 source:/home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/Instrumentos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Instrumentos.h"
+
+1558474759 /home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/Instrumentos.h
+
+1558474759 source:/home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/Musicos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Musicos.h"
+
+1558474759 /home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/Musicos.h
+
+1558474759 source:/home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/Orquestas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Orquestas.h"
+	"Musicos.h"
+	"Instrumentos.h"
+
+1558479128 /home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/Orquestas.h
+	"Musicos.h"
+
+1558474759 source:/home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1558476162 source:/home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Orquestas.h"
+	"Musicos.h"
+	"Instrumentos.h"
+	"informes.h"
+
+1558474759 /home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/informes.h
+
+1558481567 source:/home/alumno/Documentos/martinsamb/parcialP/parcialP/Parcial_ESQ/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Orquestas.h"
+	"Instrumentos.h"
+	"Musicos.h"
+	"informes.h"
+
