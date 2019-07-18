@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1562863708 source:c:\users\lucas\desktop\fantasma\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fantasma.h"
+
+1562863708 c:\users\lucas\desktop\fantasma\fantasma.h
+	<stdio.h>
+	<stdlib.h>
+
+1562863208 source:c:\users\lucas\desktop\fantasma\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1562863219 source:c:\users\lucas\desktop\fantasma\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Fantasma.h"
+	"Controller.h"
+	"Parser.h"
+
+1561661573 c:\users\lucas\desktop\fantasma\linkedlist.h
+
+1561647548 c:\users\lucas\desktop\fantasma\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Fantasma.h"
+
+1562863208 c:\users\lucas\desktop\fantasma\parser.h
+
+1561661714 source:c:\users\lucas\desktop\fantasma\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562863853 source:c:\users\lucas\desktop\fantasma\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Fantasma.h"
+	"Parser.h"
+
+1561992802 c:\users\lucas\desktop\fantasma\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562873388 source:c:\users\lucas\desktop\fantasma\utn.c
+	"utn.h"
+
+1562885931 source:d:\lucas hulej parcial\fantasma-master\fantasma\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Llamada.h"
+	"Controller.h"
+	"Parser.h"
+	"utn.h"
+
+1562874280 d:\lucas hulej parcial\fantasma-master\fantasma\linkedlist.h
+
+1562874280 d:\lucas hulej parcial\fantasma-master\fantasma\fantasma.h
+	<stdio.h>
+	<stdlib.h>
+
+1562885014 d:\lucas hulej parcial\fantasma-master\fantasma\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Llamada.h"
+
+1562874280 d:\lucas hulej parcial\fantasma-master\fantasma\parser.h
+
+1562874280 source:d:\lucas hulej parcial\fantasma-master\fantasma\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fantasma.h"
+
+1562874280 source:d:\lucas hulej parcial\fantasma-master\fantasma\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562886878 source:d:\lucas hulej parcial\fantasma-master\fantasma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Llamada.h"
+	"LinkedList.h"
+	"Parser.h"
+	"Controller.h"
+	"utn.h"
+
+1562883279 source:d:\lucas hulej parcial\fantasma-master\fantasma\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Llamada.h"
+	"Parser.h"
+
+1562874280 d:\lucas hulej parcial\fantasma-master\fantasma\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562874280 source:d:\lucas hulej parcial\fantasma-master\fantasma\utn.c
+	"utn.h"
+
+1562884788 d:\lucas hulej parcial\fantasma-master\fantasma\llamada.h
+
+1562884788 source:d:\lucas hulej parcial\fantasma-master\fantasma\llamada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Llamada.h"
+
+1562873426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Llamada.h"
+	"Controller.h"
+	"Parser.h"
+	"utn.h"
+
+1562873426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\linkedlist.h
+
+1562873426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\llamada.h
+
+1562873426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Llamada.h"
+
+1562873426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\parser.h
+
+1562873426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562873426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562873426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\llamada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Llamada.h"
+
+1562873426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Llamada.h"
+	"LinkedList.h"
+	"Parser.h"
+	"Controller.h"
+	"utn.h"
+
+1562873426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Llamada.h"
+	"Parser.h"
+
+1562873426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recu_segundo\fantasma\utn.c
+	"utn.h"
+

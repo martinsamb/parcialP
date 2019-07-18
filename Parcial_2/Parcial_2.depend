@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1561500655 source:/home/alumno/Workspace/Parcial_2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561500655 /home/alumno/Workspace/Parcial_2/LinkedList.h
+
+1561505911 source:/home/alumno/Workspace/Parcial_2/Entrega.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entrega.h"
+	"utn.h"
+
+1561503949 /home/alumno/Workspace/Parcial_2/Entrega.h
+
+1561500655 /home/alumno/Workspace/Parcial_2/utn.h
+
+1561500655 source:/home/alumno/Workspace/Parcial_2/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<time.h>
+
+1561502380 source:/home/alumno/Workspace/Parcial_2/File.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entrega.h"
+
+1561506380 source:/home/alumno/Workspace/Parcial_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Entrega.h"
+	"Informes.h"
+	"utn.h"
+
+1561506365 /home/alumno/Workspace/Parcial_2/Controller.h
+
+1561506179 source:/home/alumno/Workspace/Parcial_2/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entrega.h"
+	"File.h"
+	"utn.h"
+
+1561502201 /home/alumno/Workspace/Parcial_2/File.h
+
+1561504924 /home/alumno/Workspace/Parcial_2/Informes.h
+
+1561506316 source:/home/alumno/Workspace/Parcial_2/Informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Entrega.h"
+	"Informes.h"
+	"utn.h"
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entrega.h"
+	"File.h"
+	"utn.h"
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\linkedlist.h
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\entrega.h
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\file.h
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\utn.h
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\entrega.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entrega.h"
+	"utn.h"
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entrega.h"
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Entrega.h"
+	"Informes.h"
+	"utn.h"
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\controller.h
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\informes.h
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Entrega.h"
+	"Informes.h"
+	"utn.h"
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\rori\parcial_laboratorio1-master\parcial_2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<time.h>
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entrega.h"
+	"File.h"
+	"utn.h"
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\linkedlist.h
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\entrega.h
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\file.h
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\utn.h
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\entrega.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entrega.h"
+	"utn.h"
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Entrega.h"
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Entrega.h"
+	"Informes.h"
+	"utn.h"
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\controller.h
+
+1561493426 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\informes.h
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1563423424 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Entrega.h"
+	"Informes.h"
+	"utn.h"
+
+1561493426 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\parcial_2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<time.h>
+

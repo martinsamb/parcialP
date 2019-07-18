@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1562880955 source:d:\2doparcial_soportetelefonico\soportetelefonico\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562880955 d:\2doparcial_soportetelefonico\soportetelefonico\linkedlist.h
+
+1562888499 source:d:\2doparcial_soportetelefonico\soportetelefonico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"soporte.h"
+	"parser.h"
+
+1562885872 source:d:\2doparcial_soportetelefonico\soportetelefonico\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1562881700 d:\2doparcial_soportetelefonico\soportetelefonico\validaciones.h
+
+1562887902 source:d:\2doparcial_soportetelefonico\soportetelefonico\soporte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"soporte.h"
+	"validaciones.h"
+	"LinkedList.h"
+
+1562887843 d:\2doparcial_soportetelefonico\soportetelefonico\soporte.h
+	"LinkedList.h"
+
+1562885948 source:d:\2doparcial_soportetelefonico\soportetelefonico\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"soporte.h"
+
+1562888487 source:d:\2doparcial_soportetelefonico\soportetelefonico\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"soporte.h"
+	"parser.h"
+	"validaciones.h"
+
+1562882525 d:\2doparcial_soportetelefonico\soportetelefonico\parser.h
+
+1562883007 d:\2doparcial_soportetelefonico\soportetelefonico\controller.h
+
+1562876642 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"soporte.h"
+	"parser.h"
+	"validaciones.h"
+
+1562876642 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\linkedlist.h
+
+1562876642 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\soporte.h
+	"LinkedList.h"
+
+1562876642 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\parser.h
+
+1562876642 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\validaciones.h
+
+1562876642 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562876642 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"soporte.h"
+	"parser.h"
+
+1562876642 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\controller.h
+
+1562876642 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"soporte.h"
+
+1562876642 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\soporte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"soporte.h"
+	"validaciones.h"
+	"LinkedList.h"
+
+1562876642 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\2doparcial_telefonico\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+

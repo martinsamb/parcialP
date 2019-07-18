@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1563375980 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Llamada.h"
+	"Controller.h"
+	"Parser.h"
+	"utn.h"
+
+1563376527 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\linkedlist.h
+
+1563376568 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\llamada.h
+
+1563376295 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Llamada.h"
+
+1563376618 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\parser.h
+
+1563376681 c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563376000 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1563376026 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\llamada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Llamada.h"
+
+1563376815 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Llamada.h"
+	"LinkedList.h"
+	"Parser.h"
+	"Controller.h"
+	"utn.h"
+
+1563376208 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Llamada.h"
+	"Parser.h"
+
+1563376231 source:c:\users\maría marta\desktop\martin\utn\programacion1\00_recuperatorio\parcialp\recuperatorio\utn.c
+	"utn.h"
+
